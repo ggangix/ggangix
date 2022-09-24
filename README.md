@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ggangix" target="blank"><img src="https://img.shields.io/twitter/follow/ggangix?logo=twitter&style=for-the-badge" alt="ggangix" /></a> </p>
 
-- 🔭 I’m currently working on [Rinkel](rinkel.com)
+- 🔭 I’m currently working on [Rinkel](http://rinkel.com)
 
 - 📫 How to reach me **me@giuseppe.xyz**
 
